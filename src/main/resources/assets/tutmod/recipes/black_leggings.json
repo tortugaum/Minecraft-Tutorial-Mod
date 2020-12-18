@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XXX",
+		"X X",
+		"X X"
+	],
+	"key": {
+		"X": {
+			"item": "tutmod:black_ingot"
+		}
+	},
+	"result": {
+		"item": "tutmod:black_leggings"
+	}
+}

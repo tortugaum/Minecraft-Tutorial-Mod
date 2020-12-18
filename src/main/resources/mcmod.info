@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutmod",
+  "name": "Tutorial Mod",
+  "description": "Mod please work god.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tartarugacraft"],
+  "credits": "Every godamn forum I went through",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

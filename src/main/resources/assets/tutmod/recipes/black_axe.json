@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XX",
+		"#X",
+		"# "
+	],
+	"key": {
+		"X": {
+			"item": "tutmod:black_ingot"
+		},
+		"#": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "tutmod:black_axe"
+	}
+}

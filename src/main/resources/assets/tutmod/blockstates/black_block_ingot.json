@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "tutmod:black_block_ingot"
+    },
+    "variants": {
+        "normal": [{}],
+        "inventory": [{}]
+    }
+}

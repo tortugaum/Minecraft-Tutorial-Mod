@@ -1,0 +1,20 @@
+item.tutmod.black_ingot.name=Black Ingot
+
+item.tutmod.black_axe.name=Black Axe
+item.tutmod.black_pickaxe.name=Black Pickaxe
+item.tutmod.black_shovel.name=Black Shovel
+item.tutmod.black_hoe.name=Black Hoe
+item.tutmod.black_sword.name=Black Sword
+
+item.tutmod.fire_staff.name=Fire Staff
+
+item.tutmod.black_helmet.name=Black Helmet
+item.tutmod.black_chestplate.name=Black Chestplate
+item.tutmod.black_leggings.name=Black Leggings
+item.tutmod.black_boots.name=Black Boots
+
+tile.tutmod.black_block.name=Black Block
+tile.tutmod.black_block_ingot.name=Black Ore
+tile.tutmod.floor_sword.name=Floor Sword
+
+itemGroup.tutmod=Tutorial Mod
